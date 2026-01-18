@@ -59,8 +59,3 @@ I work with **JavaScript, React, Three.js, GSAP**, and also know **HTML, CSS, Ta
 - I play soccer ⚽  
 - I’m 16 years old and from Syria 🌍  
 - I love learning new coding tricks and creating web animations ✨  
-
----
-
-## 📈 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/IbrahimAl-Bari/count.svg)
