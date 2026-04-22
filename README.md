@@ -1,14 +1,14 @@
-# Hi there 👋, I'm Ibrahim Al-Bari
+# Hi there , I'm Ibrahim Al-Bari
 
-## 🚀 About Me
+## About Me
 I'm a **Frontend Developer** passionate about building interactive web experiences.  
-I work with **JavaScript, React, Three.js, GSAP**, and also know **HTML, CSS, Tailwind, and Git**.  
+I work with **JavaScript, React, Next.js, Three.js ,GSAP**, and also know **HTML, CSS, and Tailwind.  
 
-💡 I’m a coder with big dreams 💻✨ and a high hope in mastering web development.
+ I’m a coder with big dreams and a high hope in mastering web development.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" title="JavaScript">
@@ -38,7 +38,7 @@ I work with **JavaScript, React, Three.js, GSAP**, and also know **HTML, CSS, Ta
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-Bari&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-Bari&layout=compact&theme=radical" alt="Top Languages" />
@@ -46,10 +46,16 @@ I work with **JavaScript, React, Three.js, GSAP**, and also know **HTML, CSS, Ta
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p>
   <a href="mailto:ibrahim2010963@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email">
+  </a>
+</p>
+
+<p>
+  <a href="https://instagram.com/ibrahim_dev2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram">
   </a>
 </p>
 
