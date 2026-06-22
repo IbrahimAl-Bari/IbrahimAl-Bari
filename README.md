@@ -13,9 +13,9 @@ I work with **JavaScript, React, Next.js, Three.js ,GSAP**, and also know **HTML
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" title="JavaScript">
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/Next" target="_blank">
-    <img src="https://img.shields.io/badge/Next-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="Next" title="Next">
-  </a>
+ <a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js">
+</a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React">
   </a>
