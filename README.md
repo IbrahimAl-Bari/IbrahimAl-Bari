@@ -1,7 +1,7 @@
 # Hi there , I'm Ibrahim Al-Bari
 
 ## About Me
-I'm a **Frontend Developer** passionate about building interactive web experiences.  
+I'm a **Full-Stack Web Developer** passionate about building interactive web experiences.  
 I work with **JavaScript, React, Next.js, Three.js ,GSAP**, and also know **HTML, CSS, and Tailwind.  
 
  I’m a coder with big dreams and a high hope in mastering web development.
