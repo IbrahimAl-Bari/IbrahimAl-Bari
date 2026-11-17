@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">Thanks for stopping by — build, learn, repeat</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#780000"/><stop offset=".48" stop-color="#003049"/><stop offset="1" stop-color="#001C2B"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#669BBC" stop-opacity="0"/><stop offset=".5" stop-color="#FDF0D5"/><stop offset="1" stop-color="#C1121F" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 58C180 110 310 10 500 58S850 110 1200 36V150H0Z" fill="url(#bg)"/>
+  <path d="M0 58C180 110 310 10 500 58S850 110 1200 36" fill="none" stroke="url(#line)" stroke-width="1.5"/>
+  <text x="600" y="103" text-anchor="middle" fill="#FDF0D5" font-family="Satoshi, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="5">BUILD  /  LEARN  /  REPEAT</text>
+  <circle cx="1020" cy="78" r="3" fill="#FDF0D5"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="180" cy="83" r="2" fill="#669BBC"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
