@@ -1,7 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="76" viewBox="0 0 1000 76" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title desc">
   <title id="title">Building thoughtful products, engineering reliable systems, currently learning Python</title>
-  <defs><clipPath id="typing"><rect x="0" y="0" width="0" height="48"><animate attributeName="width" values="0;850;850;0" keyTimes="0;.68;.86;1" dur="8s" repeatCount="indefinite"/></rect></clipPath></defs>
-  <text x="500" y="47" text-anchor="middle" fill="#669BBC" font-family="Satoshi, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing=".4">Building thoughtful products · Engineering reliable systems · Learning Python</text>
-  <rect x="75" y="10" width="850" height="48" fill="#003049" clip-path="url(#typing)" opacity=".98"/>
-  <rect x="76" y="15" width="2" height="38" fill="#C1121F"><animate attributeName="x" values="76;926;926;76" keyTimes="0;.68;.86;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;1" keyTimes="0;.8;.9;1" dur="1s" repeatCount="indefinite"/></rect>
+  <desc id="desc">A typing-style line that reveals the introduction from left to right.</desc>
+  <defs>
+    <clipPath id="reveal">
+      <rect x="150" y="8" width="0" height="58">
+        <animate attributeName="width" values="0;900;900;0" keyTimes="0;0.62;0.86;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="600" y="48" text-anchor="middle" fill="#669BBC" font-family="Satoshi, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="500" letter-spacing=".2" clip-path="url(#reveal)">Building thoughtful products · Engineering reliable systems · Learning Python</text>
+  <rect x="150" y="18" width="2" height="34" rx="1" fill="#C1121F">
+    <animate attributeName="x" values="150;1050;1050;150" keyTimes="0;0.62;0.86;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.62;0.86;0.99;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
 </svg>
