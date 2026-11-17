@@ -1,153 +1,174 @@
- <div align="center">
+<!--
+  Ibrahim Al-Bari — GitHub profile README
+  Palette: Deep Space Blue #003049 · Molten Lava #780000 · Brick Red #C1121F
+           Papaya Whip #FDF0D5 · Steel Blue #669BBC
+  Custom SVG assets live in /profile. GitHub renders SVG images but does not support
+  page-level CSS or arbitrary web-font loading in Markdown.
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003049,50:001C2B,100:780000&height=220&section=header&text=IBRAHIM%20AL-BARI&fontSize=48&fontColor=FDF0D5&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=16&descColor=669BBC&descAlignY=58&animation=fadeIn" width="100%" alt="Ibrahim Al-Bari profile header"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Engineering+systems+that+scale.;Turning+ideas+into+working+software.;Currently+exploring+Python." alt="Developer introduction"/>
+<img src="./profile/header.svg" width="100%" alt="Ibrahim Al-Bari — Full-stack web developer" />
 
-<br/>
+<img src="./profile/typing.svg" width="100%" alt="Building thoughtful products, engineering reliable systems, currently learning Python" />
 
-<a href="mailto:ibrahim2010963@gmail.com"><img src="https://img.shields.io/badge/EMAIL-780000?style=flat-square&logo=gmail&logoColor=FDF0D5"/></a>
-<a href="https://instagram.com/ibrahim_dev2"><img src="https://img.shields.io/badge/INSTAGRAM-003049?style=flat-square&logo=instagram&logoColor=FDF0D5"/></a>
-<a href="https://github.com/IbrahimAl-Bari"><img src="https://img.shields.io/badge/GITHUB-003049?style=flat-square&logo=github&logoColor=FDF0D5"/></a>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=IbrahimAl-Bari&style=flat-square&color=780000&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="mailto:ibrahim2010963@gmail.com" title="Send me an email">
+  <img src="https://img.shields.io/badge/EMAIL-780000?style=for-the-badge&logo=gmail&logoColor=FDF0D5" alt="Email" />
+</a>
+<a href="https://instagram.com/ibrahim_dev2" title="Visit my Instagram">
+  <img src="https://img.shields.io/badge/INSTAGRAM-003049?style=for-the-badge&logo=instagram&logoColor=FDF0D5" alt="Instagram" />
+</a>
+<a href="https://github.com/IbrahimAl-Bari" title="Explore my GitHub repositories">
+  <img src="https://img.shields.io/badge/GITHUB-669BBC?style=for-the-badge&logo=github&logoColor=003049" alt="GitHub" />
+</a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=IbrahimAl-Bari&style=flat-square&color=780000&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
----
+<div align="center">
+  <img src="./profile/divider.svg" width="100%" alt="" />
+</div>
 
-<h2 align="center">01 / THE DEVELOPER</h2>
+## 01 / ABOUT
 
-I'm **Ibrahim Al-Bari**, a full-stack developer interested in building reliable, well-structured software.
+I'm **Ibrahim Al-Bari**, a full-stack web developer with around **2 years of hands-on development experience**.
 
-I enjoy working across the entire development process — from designing interfaces and implementing frontend interactions to architecting backend systems and managing databases.
+I enjoy building complete products: shaping interfaces, designing backend architecture, modeling relational data, and connecting services through reliable APIs. I care about maintainable code, thoughtful UX, and understanding how the pieces of a system fit together.
 
-I believe good engineering is about understanding the system, not just getting the code to work.
+- **Focus:** Full-stack web development and backend architecture
+- **Currently learning:** Python and deeper programming fundamentals
+- **Interested in:** Database design, API integrations, frontend engineering, and creative development
+- **Approach:** Practical engineering, continuous learning, and deliberate problem-solving
 
-- Building full-stack applications with modern web technologies.
-- Designing database structures, APIs, and business logic.
-- Exploring creative development, 3D, and motion design.
-- Using AI as a development tool while maintaining control over architecture and implementation.
-- Currently learning **Python** and expanding my programming fundamentals.
+> I like understanding the system behind the interface — not just making the screen work.
 
-> Curiosity drives the process. Engineering makes it work.
+<div align="center">
+  <img src="./profile/divider.svg" width="100%" alt="" />
+</div>
 
----
-
-<h2 align="center">02 / TECHNOLOGIES</h2>
+## 02 / TECHNOLOGY
 
 <div align="center">
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="TypeScript, JavaScript, Python, HTML, and CSS" />
 
-**FRAMEWORKS & DATABASES**
+**FRAMEWORKS & DATA**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,postgres&theme=dark" alt="Frameworks and databases"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,postgres&theme=dark" alt="Next.js, React, Tailwind CSS, Supabase, and PostgreSQL" />
 
 **TOOLS & CREATIVE**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,threejs,gsap&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,threejs&theme=dark" alt="Git, GitHub, Vercel, Figma, Blender, and Three.js" />
 
 </div>
 
 <details>
-<summary><b>More about my technical interests</b></summary>
+<summary><strong>How I like to work</strong></summary>
 
-- **Frontend:** Component architecture, responsive interfaces, animations.
-- **Backend:** API design, server-side logic, integrations.
-- **Databases:** PostgreSQL, relational modeling, data integrity.
-- **Engineering:** Type safety, maintainability, security, performance.
-- **Creative:** Interactive experiences, 3D, motion design.
-
-</details>
-
----
-
-<h2 align="center">03 / WHAT I'M BUILDING</h2>
-
-<details open>
-<summary><b>LAZA Roastery — Business Management Platform</b></summary>
-
-A full-stack business management application designed around real operational workflows.
-
-Working across inventory management, invoicing, roasting, packaging, fulfillment, and external API integrations.
-
-**Technologies:** Next.js · TypeScript · Supabase · PostgreSQL
+- **Frontend:** Component architecture, responsive interfaces, accessibility, and motion.
+- **Backend:** Server-side logic, API design, integrations, and clear system boundaries.
+- **Data:** Relational modeling, PostgreSQL, data integrity, and maintainable queries.
+- **Engineering:** Type safety, security, performance, and readable code.
+- **Creative development:** Interactive experiences, 3D, and animation with GSAP.
 
 </details>
 
-<details>
-<summary><b>Personal Development — Python</b></summary>
+<div align="center">
+  <img src="./profile/divider.svg" width="100%" alt="" />
+</div>
 
-Expanding beyond JavaScript and TypeScript, learning Python and strengthening my understanding of programming fundamentals.
-
-**Focus:** Data structures · Functions · Dictionaries · Problem solving
-
-</details>
-
----
-
-<h2 align="center">04 / GITHUB ANALYTICS</h2>
+## 03 / FEATURED PROJECT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-Bari&show_icons=true&hide_border=true&bg_color=003049&title_color=FDF0D5&text_color=E1EBF2&icon_color=C1121F&rank_icon=github" width="49%" alt="GitHub statistics"/>
+### LAZA Roastery
+**Business Management Platform**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-Bari&layout=compact&hide_border=true&bg_color=003049&title_color=FDF0D5&text_color=E1EBF2&langs_count=6" width="49%" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=IbrahimAl-Bari&hide_border=true&background=003049&ring=C1121F&fire=C1121F&currStreakLabel=FDF0D5&sideLabels=669BBC&currStreakNum=FDF0D5&sideNums=FDF0D5&dates=669BBC" width="75%" alt="GitHub contribution streak"/>
+A full-stack platform built around real business operations, connecting day-to-day workflows in one place.
 
 </div>
 
----
-
-<h2 align="center">05 / CONTRIBUTION ACTIVITY</h2>
+- **Operations:** Inventory, invoicing, roasting, packaging, and fulfillment.
+- **Architecture:** Next.js App Router and TypeScript, with Supabase and PostgreSQL.
+- **Integrations:** External business APIs and synchronized operational data.
+- **Engineering focus:** Workflow integrity, role-aware experiences, and reliable data handling.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimAl-Bari&bg_color=003049&color=FDF0D5&line=C1121F&point=FDF0D5&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20GRAPH" width="100%" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/IbrahimAl-Bari/IbrahimAl-Bari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://img.shields.io/badge/NEXT.JS-003049?style=flat-square&logo=nextdotjs&logoColor=FDF0D5" alt="Next.js" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-003049?style=flat-square&logo=typescript&logoColor=669BBC" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SUPABASE-003049?style=flat-square&logo=supabase&logoColor=669BBC" alt="Supabase" />
+<img src="https://img.shields.io/badge/POSTGRESQL-003049?style=flat-square&logo=postgresql&logoColor=669BBC" alt="PostgreSQL" />
 
 </div>
 
----
-
-<h2 align="center">06 / A LITTLE MORE</h2>
-
 <div align="center">
-
-| | |
-|:---|:---|
-| Current focus | Full-stack engineering |
-| Learning | Python |
-| Favorite ecosystem | JavaScript / TypeScript |
-| Database | PostgreSQL |
-| Creative interests | 3D & motion design |
-| Philosophy | Understand what you build |
-
+  <img src="./profile/divider.svg" width="100%" alt="" />
 </div>
 
----
+## 04 / GITHUB ANALYTICS
 
 <div align="center">
 
-<h3>BUILD. LEARN. REPEAT.</h3>
-
-<sub>Thanks for visiting my corner of GitHub.</sub>
-
-<br/><br/>
-
-<a href="mailto:ibrahim2010963@gmail.com">
-<img src="https://img.shields.io/badge/HAVE%20AN%20IDEA%3F%20LET'S%20TALK-780000?style=for-the-badge&logo=gmail&logoColor=FDF0D5"/>
+<a href="https://github.com/IbrahimAl-Bari">
+  <img src="./profile/stats.svg" width="49%" alt="GitHub overview statistics" />
+</a>
+<a href="https://github.com/IbrahimAl-Bari">
+  <img src="./profile/top-langs.svg" width="49%" alt="Most used programming languages" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:780000,50:003049,100:001C2B&height=120&section=footer" width="100%" alt="Footer decoration"/>
+</div>
+
+<details>
+<summary><strong>About these statistics</strong></summary>
+
+The two cards above are generated and committed to this repository by a scheduled GitHub Actions workflow. This avoids depending on the shared public GitHub Readme Stats demo instance at render time.
+
+- Workflow: [Update profile analytics](.github/workflows/readme-stats.yml)
+- Schedule: Daily, with a manual `workflow_dispatch` option.
+- The cards are stored in `/profile` and served directly by GitHub.
+
+</details>
+
+<div align="center">
+  <img src="./profile/divider.svg" width="100%" alt="" />
+</div>
+
+## 05 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IbrahimAl-Bari/IbrahimAl-Bari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph snake" />
+
+</div>
+
+<div align="center">
+  <img src="./profile/divider.svg" width="100%" alt="" />
+</div>
+
+## 06 / CURRENTLY
+
+| AREA | FOCUS |
+|:--|:--|
+| Building | Full-stack applications |
+| Learning | Python |
+| Core stack | JavaScript · TypeScript · Next.js |
+| Data | PostgreSQL · Supabase |
+| Exploring | Backend architecture · Creative development |
+
+<div align="center">
+
+<img src="./profile/footer.svg" width="100%" alt="Build, learn, repeat — thanks for visiting" />
+
+<a href="mailto:ibrahim2010963@gmail.com" title="Get in touch">
+  <img src="https://img.shields.io/badge/HAVE%20A%20PROJECT%20IN%20MIND%3F-780000?style=for-the-badge&logo=gmail&logoColor=FDF0D5" alt="Have a project in mind? Get in touch" />
+</a>
 
 </div>
