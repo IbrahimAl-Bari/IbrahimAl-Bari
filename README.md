@@ -10,7 +10,7 @@
 
 <img src="./profile/header.svg" width="100%" alt="Ibrahim Al-Bari — Full-stack web developer" />
 
-<img src="./profile/typing.svg" width="100%" alt="Building thoughtful products, engineering reliable systems, currently learning Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=850&lines=Building+thoughtful+products.;Engineering+reliable+systems.;Currently+learning+Python." width="100%" alt="Building thoughtful products, engineering reliable systems, currently learning Python" />
 
 <br />
 
