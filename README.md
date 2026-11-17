@@ -84,36 +84,7 @@ I enjoy building complete products: shaping interfaces, designing backend archit
   <img src="./profile/divider.svg" width="100%" alt="" />
 </div>
 
-## 03 / FEATURED PROJECT
-
-<div align="center">
-
-### LAZA Roastery
-**Business Management Platform**
-
-A full-stack platform built around real business operations, connecting day-to-day workflows in one place.
-
-</div>
-
-- **Operations:** Inventory, invoicing, roasting, packaging, and fulfillment.
-- **Architecture:** Next.js App Router and TypeScript, with Supabase and PostgreSQL.
-- **Integrations:** External business APIs and synchronized operational data.
-- **Engineering focus:** Workflow integrity, role-aware experiences, and reliable data handling.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NEXT.JS-003049?style=flat-square&logo=nextdotjs&logoColor=FDF0D5" alt="Next.js" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-003049?style=flat-square&logo=typescript&logoColor=669BBC" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SUPABASE-003049?style=flat-square&logo=supabase&logoColor=669BBC" alt="Supabase" />
-<img src="https://img.shields.io/badge/POSTGRESQL-003049?style=flat-square&logo=postgresql&logoColor=669BBC" alt="PostgreSQL" />
-
-</div>
-
-<div align="center">
-  <img src="./profile/divider.svg" width="100%" alt="" />
-</div>
-
-## 04 / GITHUB ANALYTICS
+## 03 / GITHUB ANALYTICS
 
 <div align="center">
 
@@ -141,7 +112,7 @@ The two cards above are generated and committed to this repository by a schedule
   <img src="./profile/divider.svg" width="100%" alt="" />
 </div>
 
-## 05 / CONTRIBUTION ACTIVITY
+## 04 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -153,7 +124,7 @@ The two cards above are generated and committed to this repository by a schedule
   <img src="./profile/divider.svg" width="100%" alt="" />
 </div>
 
-## 06 / CURRENTLY
+## 05 / CURRENTLY
 
 | AREA | FOCUS |
 |:--|:--|
