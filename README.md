@@ -1,118 +1,136 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:0284C7&height=200&section=header&text=IBRAHIM%20AL-BARI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003049,50:001C2B,100:780000&height=220&section=header&text=IBRAHIM%20AL-BARI&fontSize=48&fontColor=FDF0D5&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descSize=16&descColor=669BBC&descAlignY=58&animation=fadeIn" width="100%" alt="Ibrahim Al-Bari profile header"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;TypeScript+%7C+Next.js+%7C+React;Building+systems%2C+not+just+interfaces;Currently+learning+Python+%F0%9F%90%8D;Always+curious.+Always+building." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Engineering+systems+that+scale.;Turning+ideas+into+working+software.;Currently+exploring+Python." alt="Developer introduction"/>
 
 <br/>
 
-<a href="mailto:ibrahim2010963@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://instagram.com/ibrahim_dev2"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-<a href="https://github.com/IbrahimAl-Bari"><img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:ibrahim2010963@gmail.com"><img src="https://img.shields.io/badge/EMAIL-780000?style=flat-square&logo=gmail&logoColor=FDF0D5"/></a>
+<a href="https://instagram.com/ibrahim_dev2"><img src="https://img.shields.io/badge/INSTAGRAM-003049?style=flat-square&logo=instagram&logoColor=FDF0D5"/></a>
+<a href="https://github.com/IbrahimAl-Bari"><img src="https://img.shields.io/badge/GITHUB-003049?style=flat-square&logo=github&logoColor=FDF0D5"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=IbrahimAl-Bari&style=flat-square&color=0284C7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=IbrahimAl-Bari&style=flat-square&color=780000&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+<h2 align="center">01 / THE DEVELOPER</h2>
 
-I'm **Ibrahim**, a developer who enjoys turning ideas into real, working software.
+I'm **Ibrahim Al-Bari**, a full-stack developer interested in building reliable, well-structured software.
 
-I focus on full-stack development, building applications from the user interface all the way down to the database and server-side logic.
+I enjoy working across the entire development process — from designing interfaces and implementing frontend interactions to architecting backend systems and managing databases.
 
-I care about more than making things work. I care about *why* they work, how they're structured, and whether they'll still make sense six months later.
+I believe good engineering is about understanding the system, not just getting the code to work.
 
 - Building full-stack applications with modern web technologies.
-- Designing backend systems, database structures, and integrations.
-- Exploring 3D, interactive experiences, and motion design.
-- Using AI to accelerate development without giving up engineering fundamentals.
-- Currently expanding my skills with **Python**.
+- Designing database structures, APIs, and business logic.
+- Exploring creative development, 3D, and motion design.
+- Using AI as a development tool while maintaining control over architecture and implementation.
+- Currently learning **Python** and expanding my programming fundamentals.
 
-> Build with curiosity. Engineer with intention.
+> Curiosity drives the process. Engineering makes it work.
 
 ---
 
-## `$ tech-stack`
+<h2 align="center">02 / TECHNOLOGIES</h2>
 
 <div align="center">
 
-### Languages
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,postgres,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="Programming languages"/>
 
-### Frameworks & Backend
+**FRAMEWORKS & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,supabase,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,postgres&theme=dark" alt="Frameworks and databases"/>
 
-### Tools & Creative
+**TOOLS & CREATIVE**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,threejs,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,threejs,gsap&theme=dark" alt="Development tools"/>
 
 </div>
 
----
+<details>
+<summary><b>More about my technical interests</b></summary>
 
-## `$ current-focus`
+- **Frontend:** Component architecture, responsive interfaces, animations.
+- **Backend:** API design, server-side logic, integrations.
+- **Databases:** PostgreSQL, relational modeling, data integrity.
+- **Engineering:** Type safety, maintainability, security, performance.
+- **Creative:** Interactive experiences, 3D, motion design.
 
-| Area | Focus |
-|---|---|
-| Web Development | Advanced Next.js & TypeScript |
-| Backend Engineering | Database architecture & APIs |
-| Python | Learning Python fundamentals and programming |
-| Creative Development | Three.js, GSAP & 3D experiences |
-| Engineering | Clean architecture, security & performance |
-
----
-
-## `$ featured-work`
-
-**LAZA Roastery**
-
-A full-stack business management platform involving inventory, invoicing, roasting, packaging, and fulfillment workflows.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
-
-**FoodQuest**
-
-A Roblox restaurant simulation game featuring ingredient collection, cooking, restaurant building, customers, upgrades, and progression systems.
-
-`Roblox` `Luau` `Rojo`
+</details>
 
 ---
 
-## `$ github-stats`
+<h2 align="center">03 / WHAT I'M BUILDING</h2>
+
+<details open>
+<summary><b>LAZA Roastery — Business Management Platform</b></summary>
+
+A full-stack business management application designed around real operational workflows.
+
+Working across inventory management, invoicing, roasting, packaging, fulfillment, and external API integrations.
+
+**Technologies:** Next.js · TypeScript · Supabase · PostgreSQL
+
+</details>
+
+<details>
+<summary><b>Personal Development — Python</b></summary>
+
+Expanding beyond JavaScript and TypeScript, learning Python and strengthening my understanding of programming fundamentals.
+
+**Focus:** Data structures · Functions · Dictionaries · Problem solving
+
+</details>
+
+---
+
+<h2 align="center">04 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-Bari&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-Bari&show_icons=true&hide_border=true&bg_color=003049&title_color=FDF0D5&text_color=E1EBF2&icon_color=C1121F&rank_icon=github" width="49%" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-Bari&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-Bari&layout=compact&hide_border=true&bg_color=003049&title_color=FDF0D5&text_color=E1EBF2&langs_count=6" width="49%" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=IbrahimAl-Bari&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img src="https://streak-stats.demolab.com?user=IbrahimAl-Bari&hide_border=true&background=003049&ring=C1121F&fire=C1121F&currStreakLabel=FDF0D5&sideLabels=669BBC&currStreakNum=FDF0D5&sideNums=FDF0D5&dates=669BBC" width="75%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<h2 align="center">05 / CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimAl-Bari&bg_color=003049&color=FDF0D5&line=C1121F&point=FDF0D5&area=true&hide_border=true&custom_title=THE%20CONTRIBUTION%20GRAPH" width="100%" alt="Contribution activity graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IbrahimAl-Bari&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://raw.githubusercontent.com/IbrahimAl-Bari/IbrahimAl-Bari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## `$ contribution-graph`
+<h2 align="center">06 / A LITTLE MORE</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimAl-Bari&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/IbrahimAl-Bari/IbrahimAl-Bari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+| | |
+|:---|:---|
+| Current focus | Full-stack engineering |
+| Learning | Python |
+| Favorite ecosystem | JavaScript / TypeScript |
+| Database | PostgreSQL |
+| Creative interests | 3D & motion design |
+| Philosophy | Understand what you build |
 
 </div>
 
@@ -120,10 +138,16 @@ A Roblox restaurant simulation game featuring ingredient collection, cooking, re
 
 <div align="center">
 
-### Thanks for stopping by!
+<h3>BUILD. LEARN. REPEAT.</h3>
 
-**There's always something new to build.**
+<sub>Thanks for visiting my corner of GitHub.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:172554,100:0D1117&height=110&section=footer" width="100%" />
+<br/><br/>
+
+<a href="mailto:ibrahim2010963@gmail.com">
+<img src="https://img.shields.io/badge/HAVE%20AN%20IDEA%3F%20LET'S%20TALK-780000?style=for-the-badge&logo=gmail&logoColor=FDF0D5"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:780000,50:003049,100:001C2B&height=120&section=footer" width="100%" alt="Footer decoration"/>
 
 </div>
