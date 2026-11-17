@@ -1,67 +1,129 @@
  <div align="center">
 
-# Ibrahim Al-Bari
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:0284C7&height=200&section=header&text=IBRAHIM%20AL-BARI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 
-### Full-Stack Developer · Building things that actually work.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;TypeScript+%7C+Next.js+%7C+React;Building+systems%2C+not+just+interfaces;Currently+learning+Python+%F0%9F%90%8D;Always+curious.+Always+building." alt="Typing SVG" />
+</a>
 
-I build web applications with a focus on architecture, performance, and thoughtful user experiences.
+<br/>
 
-[Portfolio](#) · [Email](mailto:ibrahim2010963@gmail.com) · [Instagram](https://instagram.com/ibrahim_dev2)
+<a href="mailto:ibrahim2010963@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://instagram.com/ibrahim_dev2"><img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://github.com/IbrahimAl-Bari"><img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=IbrahimAl-Bari&style=flat-square&color=0284C7&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-### About
+## `$ whoami`
 
-I'm a developer passionate about understanding how things work under the hood — from frontend interfaces to backend architecture and database design.
+I'm **Ibrahim**, a developer who enjoys turning ideas into real, working software.
 
-- Building full-stack applications with **Next.js, React, and TypeScript**.
-- Working with **PostgreSQL and Supabase** to build data-driven systems.
-- Exploring interactive experiences, 3D, and motion design.
-- Using AI as an engineering tool, while staying responsible for the code I ship.
+I focus on full-stack development, building applications from the user interface all the way down to the database and server-side logic.
 
-### Tech Stack
+I care about more than making things work. I care about *why* they work, how they're structured, and whether they'll still make sense six months later.
 
-**Languages**
+- Building full-stack applications with modern web technologies.
+- Designing backend systems, database structures, and integrations.
+- Exploring 3D, interactive experiences, and motion design.
+- Using AI to accelerate development without giving up engineering fundamentals.
+- Currently expanding my skills with **Python**.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> Build with curiosity. Engineer with intention.
 
-**Frontend & Backend**
+---
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Creative**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-
-### GitHub Statistics
+## `$ tech-stack`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-Bari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-Bari&layout=compact&theme=github_dark&hide_border=true" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,postgres,lua&theme=dark" />
+
+### Frameworks & Backend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,supabase,tailwind&theme=dark" />
+
+### Tools & Creative
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,threejs,vscode&theme=dark" />
+
 </div>
 
+---
+
+## `$ current-focus`
+
+| Area | Focus |
+|---|---|
+| Web Development | Advanced Next.js & TypeScript |
+| Backend Engineering | Database architecture & APIs |
+| Python | Learning Python fundamentals and programming |
+| Creative Development | Three.js, GSAP & 3D experiences |
+| Engineering | Clean architecture, security & performance |
+
+---
+
+## `$ featured-work`
+
+**LAZA Roastery**
+
+A full-stack business management platform involving inventory, invoicing, roasting, packaging, and fulfillment workflows.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+**FoodQuest**
+
+A Roblox restaurant simulation game featuring ingredient collection, cooking, restaurant building, customers, upgrades, and progression systems.
+
+`Roblox` `Luau` `Rojo`
+
+---
+
+## `$ github-stats`
+
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimAl-Bari&theme=github-compact&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IbrahimAl-Bari&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAl-Bari&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=IbrahimAl-Bari&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IbrahimAl-Bari&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+---
+
+## `$ contribution-graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimAl-Bari&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/IbrahimAl-Bari/IbrahimAl-Bari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
 </div>
 
 ---
 
 <div align="center">
 
-**Always building. Always learning.**
+### Thanks for stopping by!
+
+**There's always something new to build.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:172554,100:0D1117&height=110&section=footer" width="100%" />
 
 </div>
