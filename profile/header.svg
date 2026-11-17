@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Ibrahim Al-Bari — Full-stack developer</title>
+  <desc id="desc">An animated deep blue and red header with the name Ibrahim Al-Bari.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#003049"/><stop offset=".58" stop-color="#00263A"/><stop offset="1" stop-color="#780000"/></linearGradient>
+    <linearGradient id="rule" x1="0" x2="1"><stop stop-color="#669BBC" stop-opacity="0"/><stop offset=".48" stop-color="#669BBC"/><stop offset="1" stop-color="#C1121F" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#C1121F" stop-opacity=".42"/><stop offset="1" stop-color="#C1121F" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#669BBC" stroke-opacity=".12" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="45" r="250" fill="url(#glow)"><animate attributeName="r" values="220;270;220" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="1040" cy="88" r="3" fill="#FDF0D5"><animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1110" cy="190" r="2" fill="#669BBC"><animate attributeName="opacity" values="1;.25;1" dur="4.4s" repeatCount="indefinite"/></circle>
+  <path d="M80 218H1120" stroke="url(#rule)" stroke-width="1.5"/>
+  <path d="M80 218H300" stroke="#C1121F" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 220;220 0;0 220" dur="7s" repeatCount="indefinite"/></path>
+  <text x="82" y="117" fill="#FDF0D5" font-family="Satoshi, Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="2">IBRAHIM AL-BARI</text>
+  <text x="86" y="164" fill="#669BBC" font-family="Satoshi, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="5">FULL-STACK WEB DEVELOPER</text>
+  <text x="86" y="250" fill="#FDF0D5" fill-opacity=".68" font-family="Satoshi, Helvetica Neue, Arial, sans-serif" font-size="12" letter-spacing="3">DESIGNING SYSTEMS  /  BUILDING FOR THE WEB</text>
+  <rect x="1080" y="62" width="38" height="38" rx="10" fill="none" stroke="#669BBC" stroke-opacity=".65" transform="rotate(45 1099 81)"/>
+  <rect x="1090" y="72" width="18" height="18" rx="5" fill="#C1121F" fill-opacity=".8" transform="rotate(45 1099 81)"/>
+</svg>
