@@ -49,7 +49,7 @@ jobs:
               svg = path.read_text()
               svg = re.sub(
                   r"(\.stagger\s*\{[^}]*?)opacity:\s*0;",
-                  r"\\1opacity: 1;",
+                  r"\1opacity: 1;",
                   svg,
                   count=1,
                   flags=re.S,
