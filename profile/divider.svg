@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Decorative blue and red section divider">
+  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#003049" stop-opacity="0"/><stop offset=".42" stop-color="#669BBC"/><stop offset=".58" stop-color="#C1121F"/><stop offset="1" stop-color="#780000" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 14H1200" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="M590 14l10-7 10 7-10 7z" fill="#FDF0D5" stroke="#C1121F" stroke-width="1.5"/>
+  <circle cx="565" cy="14" r="2" fill="#669BBC"/><circle cx="635" cy="14" r="2" fill="#669BBC"/>
+</svg>
