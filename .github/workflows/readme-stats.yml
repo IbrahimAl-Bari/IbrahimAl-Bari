@@ -38,6 +38,26 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Make generated cards render immediately
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          for name in ("profile/stats.svg", "profile/top-langs.svg"):
+              path = Path(name)
+              svg = path.read_text()
+              svg = re.sub(
+                  r"(\\.stagger\\s*\\{[^}]*?)opacity:\\s*0;",
+                  r"\\1opacity: 1;",
+                  svg,
+                  count=1,
+                  flags=re.S,
+              )
+              svg = re.sub(r"animation(?:-[a-z-]+)?:\\s*[^;]+;", "animation: none;", svg)
+              path.write_text(svg)
+          PY
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
