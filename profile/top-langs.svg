@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-labelledby="title desc">
+  <title id="title">Top languages are being prepared</title><desc id="desc">This card will be generated automatically by the profile analytics workflow.</desc>
+  <rect x="1" y="1" width="493" height="188" rx="12" fill="#003049" stroke="#669BBC" stroke-opacity=".45"/>
+  <path d="M24 42H471" stroke="#669BBC" stroke-opacity=".3"/>
+  <text x="24" y="29" fill="#FDF0D5" font-family="Satoshi,Arial,sans-serif" font-size="15" font-weight="700">LANGUAGE DISTRIBUTION</text>
+  <rect x="62" y="76" width="371" height="9" rx="4.5" fill="#669BBC" fill-opacity=".22"/>
+  <rect x="62" y="76" width="105" height="9" rx="4.5" fill="#C1121F"><animate attributeName="width" values="12;105;12" dur="4s" repeatCount="indefinite"/></rect>
+  <text x="247" y="122" text-anchor="middle" fill="#FDF0D5" font-family="Satoshi,Arial,sans-serif" font-size="14">Language data pending</text>
+  <text x="247" y="146" text-anchor="middle" fill="#669BBC" font-family="Satoshi,Arial,sans-serif" font-size="11">Generated from public repository language data.</text>
+</svg>
