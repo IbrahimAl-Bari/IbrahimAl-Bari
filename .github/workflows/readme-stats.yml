@@ -48,13 +48,13 @@ jobs:
               path = Path(name)
               svg = path.read_text()
               svg = re.sub(
-                  r"(\\.stagger\\s*\\{[^}]*?)opacity:\\s*0;",
+                  r"(\.stagger\s*\{[^}]*?)opacity:\s*0;",
                   r"\\1opacity: 1;",
                   svg,
                   count=1,
                   flags=re.S,
               )
-              svg = re.sub(r"animation(?:-[a-z-]+)?:\\s*[^;]+;", "animation: none;", svg)
+              svg = re.sub(r"animation(?:-[a-z-]+)?:\s*[^;]+;", "animation: none;", svg)
               path.write_text(svg)
           PY
 
